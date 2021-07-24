@@ -1,2 +1,4 @@
 # Monthly-Budget-Program
-a command line application for making the monthly budget.
+A command line application for making the monthly budget.
+It takes your data and then helps you to manage your expense accordingly;
+Future scope in this is to introduce ML so that it automatically inserts the most often schedule you put and gives option you to customize it.
